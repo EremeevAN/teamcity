@@ -39,3 +39,5 @@ build configuration в репозиторий
 
 Артефакты jar
 ![image](https://github.com/EremeevAN/teamcity/blob/main/images/13.png)
+
+[Ссылка на репозиторий](https://github.com/EremeevAN/example-teamcity)
